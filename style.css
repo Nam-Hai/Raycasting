@@ -29,6 +29,12 @@ main {
   align-items: center;
 }
 
+p{
+  display: block;
+  width: 500px;
+  margin: 0 auto;
+}
+
 img{
   width: 35px;
   height: 35px;
