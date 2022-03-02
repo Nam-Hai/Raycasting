@@ -1,4 +1,4 @@
-# Genetic-Algorithm
-
-Crossover algorithm : https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm) <br >
-Coding Train Smart Rocket : https://www.youtube.com/watch?v=bGz7mv2vD6g&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=32
+# RayCasting
+2d Visibility from Red Blob Games : https://www.redblobgames.com/articles/visibility/ <br>
+Coding Train : https://youtu.be/TOEi6T2mtHo <br>
+Line - Line intersection : https://en.wikipedia.org/wiki/Line–line_intersection
