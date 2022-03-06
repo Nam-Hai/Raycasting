@@ -86,3 +86,9 @@ small{
   font-weight: 300;
   font-size: 0.9rem;
 }
+
+.center {
+  width: 500px;
+  display: block;
+  margin: 1rem auto;
+}
